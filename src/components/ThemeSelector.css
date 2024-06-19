@@ -1,0 +1,23 @@
+.themeSlc{
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   max-width: 1200px;
+   margin: 20px auto;
+}
+.themeBtn div{
+   display: inline-block;
+   width: 20px;
+   height: 20px;
+   cursor: pointer;
+   margin-left: 15px;
+   border-radius: 50%;
+}
+.themeTog{
+   margin-right: auto;
+}
+.themeTog img{
+   width: 24px;
+   height: 24px;
+   cursor: pointer;
+}

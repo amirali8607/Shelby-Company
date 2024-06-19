@@ -1,0 +1,7 @@
+.App{
+  height: 100%;
+  overflow: auto;
+}
+.App.dark{
+  background-color: rgb(41, 41, 41);
+}
